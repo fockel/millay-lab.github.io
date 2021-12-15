@@ -1,4 +1,4 @@
-# millay-lab.github.io
+# millay_lab.github.io
 ====================
 
 Technologies this website uses:  
