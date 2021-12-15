@@ -1,7 +1,7 @@
 name: "Millay Lab"
 description: "This is the official web page for the Millay Lab at CCHMC."
 
-url: "http://millaylab.com"
+url: "https://millay_lab.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]
